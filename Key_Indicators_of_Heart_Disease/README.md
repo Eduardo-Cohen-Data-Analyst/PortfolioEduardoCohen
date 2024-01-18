@@ -1,4 +1,4 @@
-<h1>﻿**Predicting Whether Heart Disease is Present Based on Lifestyle, Pre-existing Health Factors and Demographic Factors Using Machine Learning</h1>
+#<h1>﻿Predicting Whether Heart Disease is Present Based on Lifestyle, Pre-existing Health Factors and Demographic Factors Using Machine Learning</h1>
 
 
 
@@ -30,6 +30,7 @@ Marie Garron
 
 <h3>Dublin, Ireland</h3>
 
+<p></p>
 
 
 [**Introduction/Abstract](#_heading=h.b0dp68q5j7se)	**4**
