@@ -1,4 +1,4 @@
-﻿**Predicting Whether Heart Disease is Present Based on Lifestyle, Pre-existing Health Factors and Demographic Factors Using Machine Learning**
+<h1>﻿**Predicting Whether Heart Disease is Present Based on Lifestyle, Pre-existing Health Factors and Demographic Factors Using Machine Learning**</h1>
 
 
 
@@ -19,16 +19,16 @@ Marie Garron
 
 
 ﻿
-<h1> Higher Diploma in Science in Data Analytics for Business﻿</h1>
+<h3> Higher Diploma in Science in Data Analytics for Business﻿</h3>
 
 
-﻿**Strategic Thinking﻿**
+<h3>Strategic Thinking﻿</h3>
 
-﻿**James Garza﻿**
+<h3>James Garza﻿</h3>
 
-﻿**CCT College﻿**
+<h3>CCT College</h3>
 
-﻿﻿**Dublin, Ireland﻿**
+<h3>Dublin, Ireland</h3>
 
 
 [**Introduction/Abstract](#_heading=h.b0dp68q5j7se)	**4**
