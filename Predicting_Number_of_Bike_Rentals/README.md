@@ -1,4 +1,4 @@
-﻿<h1>**Determining Which Regression Approach is Best for Predicting The Number of Bike Rentals** </h1>
+﻿<h1>Determining Which Regression Approach is Best for Predicting The Number of Bike Rentals </h1>
 
 <h3>Chosen Domain: Customer Services</h3>
 
