@@ -4,8 +4,6 @@
 
 By
 
-Abdirisak Nour
-
 Eduardo Cohen
 
 Eugen Efros
@@ -13,6 +11,8 @@ Eugen Efros
 Lorna Sinclair
 
 Marie Garron
+
+
 
 
 
