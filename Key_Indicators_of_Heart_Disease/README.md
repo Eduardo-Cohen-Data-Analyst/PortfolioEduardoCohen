@@ -18,7 +18,8 @@ Marie Garron
 
 
 
-﻿**Higher Diploma in Science in Data Analytics for Business﻿**
+﻿
+# Higher Diploma in Science in Data Analytics for Business﻿
 
 
 ﻿**Strategic Thinking﻿**
