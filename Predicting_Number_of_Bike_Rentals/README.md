@@ -1,6 +1,8 @@
-﻿**Determining Which Regression Approach is Best for Predicting The Number of Bike Rentals** 
+﻿<h1>**Determining Which Regression Approach is Best for Predicting The Number of Bike Rentals** </h1>
 
-**Chosen Domain: Customer Services** 
+<h3>Chosen Domain: Customer Services</h3>
+
+<br> </br>
 
 By 
 
@@ -14,15 +16,19 @@ Lorna Sinclair
 
 Marie Garron 
 
-Higher Diploma in Science in Data Analytics for Business 
+<br> </br>
 
-Machine Learning 
+<h3>Higher Diploma in Science in Data Analytics for Business </h3>
 
-Dr. Muhammad Iqbal 
+<h3>Machine Learning </h3>
 
-CCT College 
+<h3>Dr. Muhammad Iqbal </h3>
 
-Dublin, Ireland
+<h3>CCT College </h3>
+
+<h3>Dublin, Ireland</h3>
+
+<br> </br>
 
 **Introduction/Abstract 4** 
 
