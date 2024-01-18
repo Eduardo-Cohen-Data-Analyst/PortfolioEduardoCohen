@@ -12,24 +12,24 @@ Lorna Sinclair
 
 Marie Garron
 
-#
 
 
 
 
 
 
-#Higher Diploma in Science in Data Analytics for Business 
-#
-#Strategic Thinking
-#
-#James Garza 
-#
-#CCT College 
-#
-#Dublin, Ireland 
-#
-#
+﻿**Higher Diploma in Science in Data Analytics for Business 
+
+
+﻿**Strategic Thinking
+
+﻿**James Garza 
+
+﻿**CCT College 
+
+﻿*Dublin, Ireland 
+
+
 [**Introduction/Abstract](#_heading=h.b0dp68q5j7se)	**4****
 
 [**Business Understanding](#_heading=h.46ng2xj0yo75)	**4****
